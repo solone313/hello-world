@@ -5,9 +5,14 @@
 멋쟁이 사자처럼 7기 운영진으로 활동하면서 javascript 와 python 기반 django 프레임워크로 웹을 접했고, 
 nodejs spring boot 등 다양한 언어와 프레임워크를 공부중입니다. 깃허브 주소는 github.com/solone313 입니다.
 
+## Careers
+### (주)티클 '2019-11-15~'
+다음의 역할을 맡고 있습니다.
+- Node.js를 활용한 서비스 비즈니스 로직 구현
+- DynamoDB를 활용한 금융 데이터 처리
+- AWS & Serverless를 통한 서버 배포 관리
 
 ## Interested in
-
 ### lang
 
 - `c`를 이용하여 프로그래밍 기본 문법, 자료구조를 배웠고 교내 코딩챌린지에 나가 4등에 입상하였습니다.
@@ -33,11 +38,12 @@ nugu developers 본선진출작으로 백엔드 프록시 서버 전체부분의
 기술스택은 nodejs(express), socketio, mysql 등을 사용하였고, google geocoding api를 사용하여 nugu서버에 response를 보낼 때
 mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용하였습니다.
 
-### `2019-09-01~` (https://github.com/solone313/GeniePet_Server)
+### `2019-09-01~2019-12-04` (https://github.com/solone313/GeniePet_Server)
 
 딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
 개발중이며 django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트를 담당하고 있습니다.
 해당 폴더에 sw개발계획서를 첨부하였습니다. 
+창의설계경진대회 2등으로 우수상을 수상하였습니다.
 (대회는 나가지않고 학교 지도교수님과 팀을 이뤄 프로젝트 진행중입니다.)
 
 작은 사이드 프로젝트는 제외했습니다.
