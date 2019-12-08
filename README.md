@@ -5,13 +5,6 @@
 멋쟁이 사자처럼 7기 운영진으로 활동하면서 javascript 와 python 기반 django 프레임워크로 웹을 접했고, 
 nodejs spring boot 등 다양한 언어와 프레임워크를 공부중입니다. 깃허브 주소는 github.com/solone313 입니다.
 
-## Careers
-### (주)티클 '2019-11-15~'
-다음의 역할을 맡고 있습니다.
-- Node.js를 활용한 서비스 비즈니스 로직 구현
-- DynamoDB를 활용한 금융 데이터 처리
-- AWS & Serverless를 통한 서버 배포 관리
-
 ## Interested in
 ### lang
 
