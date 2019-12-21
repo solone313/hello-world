@@ -1,18 +1,24 @@
 # **류호진** (solone313)
 
 ## Introduction
-세종대학교 디지털콘텐츠학과(현 소프트웨어학과) 재학중으로 2020년 2월 졸업예정입니다. 
-멋쟁이 사자처럼 7기 운영진으로 활동하면서 javascript 와 python 기반 django 프레임워크로 웹을 접했고, 
-nodejs spring boot 등 다양한 언어와 프레임워크를 공부중입니다. 깃허브 주소는 github.com/solone313 입니다.
+- 이름 : 류호진
+- 학력 : 세종대학교 (2020년 2월 졸업예정)
 
+python으로 웹개발을 시작하여 prettier code style을 지향하고 있습니다.
 ## Interested in
-### lang
+### Stack
 
 - `c`를 이용하여 프로그래밍 기본 문법, 자료구조를 배웠고 교내 코딩챌린지에 나가 4등에 입상하였습니다.
+
 - `python3`을 이용하여 웹서버(django)를 구축하는 개발을 주로 해왔으며, 현재 python을 이용하여 자료구조와 알고리즘을 배우고 있습니다.
+
 - `nodejs`의 'express' 프레임워크를 이용하여 socketio를 활용한 backend proxy server를 만들어봤습니다.
+
 - `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
-- 외에 `io`, `kotlin`, `swift`, `phonegap` 에 관심이 있습니다.
+
+- 스타트업 2개월 수습과정에서 serverless framework를 만들기위해 graphql에 대한 개념을 배웠고 , aws - iam,s3,cognito,dynamodb,lambda,cloudformation,appsync를 사용하여, backend를 구축하는 방법을 배웠습니다.
+
+- 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
 
 ## Projects
 
@@ -40,6 +46,11 @@ mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용
 (대회는 나가지않고 학교 지도교수님과 팀을 이뤄 프로젝트 진행중입니다.)
 
 작은 사이드 프로젝트는 제외했습니다.
+
+## Group experience
+- it 워치독 3기 ( 2018.06 ~ 2018.08 )
+- 멋쟁이사자처럼 세종대 7기 운영진( 2018.12 ~ 2019.08 )
+
 ## Contacts
 
 - 이메일 : [solone313](solone313@naver.com)
