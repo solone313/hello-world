@@ -33,6 +33,7 @@ db는 mongodb를 사용하였고, 프로젝트를 진행하며 블록체인의 �
 
 ### `2019-08-14 ~ 2019-08-31` (https://github.com/solone313/nugu-findplace)
 
+<img src="https://i.postimg.cc/Kv5YJZQ4/image.png">
 https://nugu-findplace.herokuapp.com (서브 도메인 배포)
 nugu developers 본선진출작으로 백엔드 프록시 서버 전체부분의 개발을 맡아서 진행했습니다.
 
@@ -43,7 +44,7 @@ mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용
 
 ### `2019-09-01 ~ 2019-12-04` (https://github.com/solone313/GeniePet_Server)
 
-<img src="https://i.postimg.cc/zfg0YPyb/Kakao-Talk-20191210-092601460.jpg" width="80" height="80"/>
+<img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg" width="500" height="400"/>
 딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
 django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트를 담당했습니다.
 
