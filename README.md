@@ -4,7 +4,7 @@
 - 이름 : 류호진
 - 학력 : 세종대학교 (2020년 2월 졸업예정)
 
-python으로 웹개발을 시작하여 prettier code style을 지향하고 있습니다.
+python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자입니다.
 ## Interested in
 ### Stack
 
