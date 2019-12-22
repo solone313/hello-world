@@ -43,6 +43,7 @@ mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용
 
 ### `2019-09-01 ~ 2019-12-04` (https://github.com/solone313/GeniePet_Server)
 
+<img src="https://drive.google.com/file/d/1JwSlF77RgbIvHGeFg4c5fwCD17TFKMaH/view" width="80" height="80"/>
 딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
 django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트를 담당했습니다.
 
