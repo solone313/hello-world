@@ -23,7 +23,7 @@ python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자�
 
 ## Projects
 
-### `2019-03-02 ~ 2019-06-10` (https://github.com/solone313/vlock) 
+### `2019-03-02 ~ 2019-06-10` VLOCK(https://github.com/solone313/vlock) 
 
 블록체인을 활용한 온라인 전자투표 시스템을 구축했고, 프로젝트는 기존에 있는 깃헙을 참조하였고 
 ,views 부분의 수정과 테스트 서버 실행 환경 구성을 맡았습니다. (모두 직접개발이 아닌 클론코딩과 ui개선 및 테스트환경 구성으로 프로젝트를 진행했습니다.)
@@ -31,7 +31,7 @@ db는 mongodb를 사용하였고, 프로젝트를 진행하며 블록체인의 �
 만든 스마트 컨트랙트를 서버로 가져와 투표 시에 컨트랙트가 체결되는 기술을 구현했습니다.
 
 
-### `2019-08-14 ~ 2019-08-31` (https://github.com/solone313/nugu-findplace)
+### `2019-08-14 ~ 2019-08-31` 내가족(https://github.com/solone313/nugu-findplace)
 
 <img src="https://i.postimg.cc/Kv5YJZQ4/image.png">
 https://nugu-findplace.herokuapp.com (서브 도메인 배포)
@@ -42,9 +42,9 @@ nugu developers 본선진출작으로 백엔드 프록시 서버 전체부분의
 기술스택은 nodejs(express), socketio, mysql 등을 사용하였고, google geocoding api를 사용하여 nugu서버에 response를 보낼 때
 mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용하였습니다.
 
-### `2019-09-01 ~ 2019-12-04` (https://github.com/solone313/GeniePet_Server)
+### `2019-09-01 ~ 2019-12-04` GINIEPET(https://github.com/solone313/GeniePet_Server)
 
-<img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg" width="500" height="400"/>
+<img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg">
 딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
 django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트를 담당했습니다.
 
