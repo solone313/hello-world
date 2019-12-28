@@ -61,6 +61,11 @@ django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트
 현재 사이드 프로젝트로 react 와 drf && aws를 활용한 코딩도우미 웹사이트를 기획중에 있습니다. 혼자 개발 전체를 담당하기 위해
 현재는 react를 공부중에있습니다.
 
+## Awards
+- 세종코딩챌린지 4등
+- 창의경진설계대회 우수상
+- sejong AI Hackathon 장려상
+
 ## Group experience
 - it 워치독 3기 ( 2018.06 ~ 2018.08 )
 - 멋쟁이사자처럼 세종대 7기 운영진( 2018.12 ~ 2019.08 )
