@@ -58,8 +58,7 @@ django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트
 
 ### ` 2019-12-21 ~ 기획중`
 
-현재 사이드 프로젝트로 react 와 drf && aws를 활용한 코딩도우미 웹사이트를 기획중에 있습니다. 혼자 개발 전체를 담당하기 위해
-현재는 react를 공부중에있습니다.
+현재 naver ai burning hakaton 참가를 위해 ncp와 react를 공부하고 있습니다.
 
 ## Awards
 - 세종코딩챌린지 4등
