@@ -21,7 +21,7 @@ python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자�
 
 - 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
 
-- 현재 django에 대한 공부를 집중적으로 하고 있습니다.
+- 현재 `django`에 대한 공부를 집중적으로 하고 있습니다.
 
 ## Projects
 
