@@ -16,8 +16,8 @@ python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자�
 
 - `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
 
-- serverless framework를 만들기위해 graphql에 대한 개념을 배웠고 , 
- aws - iam s3 cognito dynamodb lambda cloudformation appsync를 사용하여, backend를 구축하는 방법을 배웠습니다.
+- serverless framework를 만들기위해 `graphql`에 대한 개념을 배웠고 , 
+ aws - `iam s3 cognito dynamodb lambda cloudformation appsync`를 사용하여, backend를 구축하는 방법을 배웠습니다.
 
 - 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
 
