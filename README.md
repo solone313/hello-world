@@ -16,10 +16,12 @@ python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자�
 
 - `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
 
-- 스타트업 2개월 수습과정에서 serverless framework를 만들기위해 graphql에 대한 개념을 배웠고 , 
+- serverless framework를 만들기위해 graphql에 대한 개념을 배웠고 , 
  aws - iam s3 cognito dynamodb lambda cloudformation appsync를 사용하여, backend를 구축하는 방법을 배웠습니다.
 
 - 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
+
+- 현재 django에 대한 공부를 집중적으로 하고 있습니다.
 
 ## Projects
 
@@ -48,7 +50,8 @@ mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용
 
 <img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg">
 딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
-django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트를 담당했습니다.
+
+django rest framework로 견종별로 평가된 상품 리스트를 반환하는 추천시스템을 넣은 rest api서버 전체파트를 담당했습니다.
 
 현재 배포하기 전 상태이며 aws를 이용한 배포까지의 계획을 가지고 있습니다.
 
@@ -56,9 +59,9 @@ django rest framework로  mvc패턴 기반 rest api서버를 구축하는 파트
 
 창의설계경진대회 2등으로 우수상을 수상하였습니다.
 
-### ` 2019-12-21 ~ 기획중`
+### ` 2019-12-21 ~ 공부중` Django-calendar(https://github.com/solone313/django-calendar)
 
-현재 naver ai burning hakaton 참가를 위해 ncp와 react를 공부하고 있습니다.
+현재 naver ai burning hakaton 참가를 위해 django를 세부적으로 공부중입니다 ( calender app 개발중 ).
 
 ## Awards
 - 세종코딩챌린지 4등
