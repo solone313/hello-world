@@ -2,9 +2,12 @@
 
 ## Introduction
 - 이름 : 류호진
+- 생년월일 : 1995.01.25
 - 학력 : 세종대학교 (2020년 2월 졸업예정)
+- 병역 : 군필 (육군 2015.10 ~ 2017.07)
 
-python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자입니다.
+python과 javascript를 사랑하는 주니어 개발자입니다.
+prettier한 코드를 지향하고 다양한 개발자분들의 code review를 듣고 성장하고 싶습니다!
 ## Interested in
 ### Stack
 
@@ -16,8 +19,7 @@ python으로 웹개발을 시작하여 2년간 개발중인 주니어 개발자�
 
 - `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
 
-- serverless framework를 만들기위해 `graphql`에 대한 개념을 배웠고 , 
- aws - `iam s3 cognito dynamodb lambda cloudformation appsync`를 사용하여, backend를 구축하는 방법을 배웠습니다.
+- aws - `iam s3 cognito dynamodb lambda cloudformation appsync`를 nodejs와 react를 기반으로 사용하여, backend를 구축(serverless framework)하고 aws console을 통해 관리하는 방법을 배웠습니다.
 
 - 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
 
