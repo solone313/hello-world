@@ -25,6 +25,8 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - 현재 `django`에 대한 공부를 집중적으로 하고 있습니다.
 
+- zappa를 이용한 aws serverless framework 구현중입니다.
+
 ## Projects
 
 ### `2019-03-02 ~ 2019-06-10` VLOCK(https://github.com/solone313/vlock) 
