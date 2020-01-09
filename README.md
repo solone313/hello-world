@@ -50,6 +50,8 @@ nugu developers 본선진출작으로 백엔드 프록시 서버 전체부분의
 기술스택은 nodejs(express), socketio, mysql 등을 사용하였고, google geocoding api를 사용하여 nugu서버에 response를 보낼 때
 mysql query구문을 사용하여 데이터를 담아 보내는 방식을 이용하였습니다.
 
+- 현재 private으로 바뀌어 요청 시 핵심구문 소스코드를 이메일로 송부해 드리겠습니다.
+
 ### `2019-09-01 ~ 2019-12-04` GINIEPET(https://github.com/solone313/GeniePet_Server)
 
 <img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg">
