@@ -6,8 +6,7 @@
 - 학력 : 세종대학교 (2020년 2월 졸업예정)
 - 병역 : 군필 (육군 2015.10 ~ 2017.07)
 
-python과 javascript를 사랑하는 주니어 개발자입니다.
-prettier한 코드를 지향하고 다양한 개발자분들의 code review를 듣고 성장하고 싶습니다!
+prettier한 코드를 지향하고 다양한 개발자분들의 code review를 듣고 성장하고 싶은 주니어 개발자입니다!
 ## Interested in
 ### Stack
 
