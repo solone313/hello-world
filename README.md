@@ -18,6 +18,8 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
 
+- naver clova, kakao pay, seyfert 등 다양한 api를 웹페이지에 구현해봤습니다.
+
 - aws - `iam s3 cognito dynamodb lambda cloudformation appsync`를 nodejs와 react를 기반으로 사용하여, backend를 구축(serverless framework)하고 aws console을 통해 관리하는 방법을 배웠습니다.
 
 - 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
@@ -25,6 +27,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 - 현재 `django`, `js` 에 대한 공부를 집중적으로 하고 있습니다.
 
 - zappa를 이용한 aws serverless framework 구현중입니다.
+
 
 ## Projects
 
@@ -66,7 +69,7 @@ django rest framework로 견종별로 평가된 상품 리스트를 반환하는
 
 ### ` 2019-12-21 ~ ` 
 
-현재 naver ai burning hakaton 참가를 위해 django와 js(react & node)를 세부적으로 공부중입니다 ( calender app 개발중 ).
+현재 naver ai burning hackaton 참가를 위해 django와 js(react & node)를 세부적으로 공부중입니다 ( calender app 개발중 ).
 - Django-calendar(https://github.com/solone313/django-calendar) django를 활용한 calendar app
 - DRF_practice(https://github.com/solone313/DRF_practice) drf의 라이브러리 활용한 다양한 기능구현
 - dj_bookmark(https://github.com/solone313/dj_bookmark) django bookmark app
