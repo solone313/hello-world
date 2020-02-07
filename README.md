@@ -69,7 +69,7 @@ django rest framework로 견종별로 평가된 상품 리스트를 반환하는
 
 ### ` 2019-12-21 ~ ` 
 
-naver ai burning hackaton 참가를 위해 django와 js(react & node)를 세부적으로 공부중입니다 ( calender app 개발중 ).
+노마드 온라인 해커톤 개발중입니다 ( goodreads clone app 개발중 ).
 - Django-calendar(https://github.com/solone313/django-calendar) django를 활용한 calendar app
 - DRF_practice(https://github.com/solone313/DRF_practice) drf의 라이브러리 활용한 다양한 기능구현
 - dj_bookmark(https://github.com/solone313/dj_bookmark) django bookmark app
