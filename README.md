@@ -73,7 +73,6 @@ django rest framework로 견종별로 평가된 상품 리스트를 반환하는
 - Django-calendar(https://github.com/solone313/django-calendar) django를 활용한 calendar app
 - DRF_practice(https://github.com/solone313/DRF_practice) drf의 라이브러리 활용한 다양한 기능구현
 - dj_bookmark(https://github.com/solone313/dj_bookmark) django bookmark app
-- naver clova API를 활용한 ai 프로젝트 기획중
 
 
 ## Awards
