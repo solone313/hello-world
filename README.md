@@ -69,7 +69,7 @@ django rest framework로 견종별로 평가된 상품 리스트를 반환하는
 
 ### ` 2019-01-30 ~ ` https://github.com/solone313/nomadbook
 
-노마드 온라인 해커톤 개발중입니다 ( goodreads clone app 개발중 ).
+노마드 온라인 해커톤 개발중입니다 ( goodreads clone app 개발중 ).  
 MERN 스택을 활용하여 개발중이며 1차로 heroku, 2차로 AWS로 배포예정입니다.
 
 
