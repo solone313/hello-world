@@ -24,9 +24,9 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
 
-- 현재 `django`, `js` 에 대한 공부를 집중적으로 하고 있습니다.
+- 현재 `nodejs`, `expressjs` 에 대한 공부를 집중적으로 하고 있습니다.
 
-- zappa를 이용한 aws serverless framework 구현중입니다.
+- MERN stack으로 홈페이지 구현중입니다.
 
 
 ## Projects
