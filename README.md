@@ -19,7 +19,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `Nodejs`의 'express' 프레임워크를 이용하여 socketio를 활용한 backend proxy server를 만들어봤습니다. 또한 현재 MERN 스택을 주로 사용하여 개발중입니다.
 
-- naver clova, kakao pay, seyfert 등 다양한 api를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다.
+- naver clova, kakao pay, seyfert 등 다양한 api를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다. PR을 올리고 코드리뷰 후 DEV Branch에 1차 Merge후 최종 점검 후 Master Branch에 Merge하는 방식으로 진행했습니다.
 
 - aws - `Iam S3 Cognito Dynamodb Lambda Cloudformation Appsync`를 nodejs와 react를 기반으로 사용하여, backend를 구축(serverless framework)하고 aws console을 통해 관리하는 방법을 배웠습니다.
 
