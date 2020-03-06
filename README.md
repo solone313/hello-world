@@ -46,7 +46,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 ### `2019-08-14 ~ 2019-08-31` 내가족(https://github.com/solone313/nugu-findplace)
 
-<img src="https://i.postimg.cc/Kv5YJZQ4/image.png">
+<img src="https://i.postimg.cc/Kv5YJZQ4/image.png" width=100>
 
 https://nugu-findplace.herokuapp.com (서브 도메인 배포)
 
@@ -57,7 +57,7 @@ https://nugu-findplace.herokuapp.com (서브 도메인 배포)
 - 현재 private으로 바뀌어 요청 시 핵심구문 소스코드를 이메일로 송부해 드리겠습니다.
 
 ### `2019-09-01 ~ 2019-12-04` GENIEPET(https://github.com/solone313/GeniePet_Server)
-<img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg">
+<img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg" width=200>
 
 딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
 - 설명 - django rest framework로 견종별로 평가된 상품 리스트를 반환하는 추천시스템을 넣은 rest api서버 전체파트를 담당했습니다.  
