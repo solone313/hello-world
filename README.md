@@ -15,19 +15,17 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `c`를 이용하여 프로그래밍 기본 문법, 자료구조를 배웠고 교내 코딩챌린지에 나가 4등에 입상하였습니다.
 
-- `python3`을 이용하여 웹서버(django)를 구축하는 개발을 주로 해왔으며, 현재 python을 이용하여 자료구조와 알고리즘을 배우고 있습니다.
+- `Python3`을 이용하여 웹서버(django)를 구축하는 개발을 해봤으며, 현재 python을 이용하여 자료구조와 알고리즘을 배우고 있습니다.
 
-- `nodejs`의 'express' 프레임워크를 이용하여 socketio를 활용한 backend proxy server를 만들어봤습니다.
-
-- `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
+- `Nodejs`의 'express' 프레임워크를 이용하여 socketio를 활용한 backend proxy server를 만들어봤습니다. 또한 현재 MERN 스택을 주로 사용하여 개발중입니다.
 
 - naver clova, kakao pay, seyfert 등 다양한 api를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다.
 
-- aws - `iam s3 cognito dynamodb lambda cloudformation appsync`를 nodejs와 react를 기반으로 사용하여, backend를 구축(serverless framework)하고 aws console을 통해 관리하는 방법을 배웠습니다.
+- aws - `Iam S3 Cognito Dynamodb Lambda Cloudformation Appsync`를 nodejs와 react를 기반으로 사용하여, backend를 구축(serverless framework)하고 aws console을 통해 관리하는 방법을 배웠습니다.
 
-- 외에 `io`, `kotlin`, `swift`, `react-native` 에 관심이 있습니다.
+- 외에 `Io`, `Kotlin`, `Swift`, `React-native` 에 관심이 있습니다.
 
-- 현재 `nodejs`, `expressjs` 에 대한 공부를 집중적으로 하고 있습니다.
+- 현재 `Nodejs`, `Expressjs`, `Raect.js` 에 대한 공부를 집중적으로 하고 있습니다.
 
 - MERN stack으로 홈페이지 구현중입니다.
 
