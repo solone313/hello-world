@@ -7,6 +7,9 @@
 - 병역 : 군필 (육군 2015.10 ~ 2017.07)
 
 prettier한 코드를 지향하고 다양한 개발자분들의 code review를 듣고 성장하고 싶은 주니어 개발자입니다!
+
+
+![깃허브로그](./images/git.png)
 ## Interested in
 ### Stack
 
@@ -18,7 +21,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `html,css,bootstrap`을 활용하여 기본적인 프론트엔드 디자인은 가능합니다.(템플릿 사용)
 
-- naver clova, kakao pay, seyfert 등 다양한 api를 웹페이지에 구현해봤습니다.
+- naver clova, kakao pay, seyfert 등 다양한 api를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다.
 
 - aws - `iam s3 cognito dynamodb lambda cloudformation appsync`를 nodejs와 react를 기반으로 사용하여, backend를 구축(serverless framework)하고 aws console을 통해 관리하는 방법을 배웠습니다.
 
@@ -68,9 +71,9 @@ django rest framework로 견종별로 평가된 상품 리스트를 반환하는
 창의설계경진대회 2등으로 우수상을 수상하였습니다.
 
 ### ` 2019-01-30 ~ ` https://github.com/solone313/nomadbook  
-사이트 - http://goreads.coo.kr  
-노마드 온라인 해커톤 개발중입니다 ( goodreads clone app 개발중 ).  
-MERN 스택을 활용하여 개발중이며 1차로 heroku, 2차로 AWS로 배포예정입니다.
+- 사이트 - http://goreads.coo.kr  
+- 노마드 온라인 해커톤 개발중입니다 ( goodreads clone app 개발중 ).  
+- MongoDB, NodeJS, ExpressJS, ReactJS, AWS S3, HEROKU, google analytics
 
 
 ## Awards
