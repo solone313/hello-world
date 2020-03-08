@@ -80,9 +80,9 @@ https://nugu-findplace.herokuapp.com (서브 도메인 배포)
 ## Group experience
 - it 워치독 3기 ( 2018.06 ~ 2018.08 )
 - 멋쟁이사자처럼 세종대 7기 운영진( 2018.12 ~ 2019.08 )
-
+- 모같코 1기( 2020.02 ~ )
+  
 ## Contacts
-
 - 이메일 : solone313@naver.com
 - **Github** : [solone313](https://github.com/solone313)
 - 로켓펀치 : [solone313](https://www.rocketpunch.com/@wjstk1233)
