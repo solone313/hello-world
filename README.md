@@ -25,9 +25,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - 외에 `Io`, `Kotlin`, `Swift`, `React-native` 에 관심이 있습니다.
 
-- 현재 `Nodejs`, `Expressjs`, `Raect.js` 에 대한 공부를 집중적으로 하고 있습니다.
-
-- MERN stack으로 홈페이지 구현중입니다.
+- 현재 `Nodejs`, `Expressjs`, `Raect.js` 로 풀스택에 대한 이해를 높이며 개발을 하고 있습니다.
 
 
 ## Projects
@@ -57,9 +55,11 @@ https://nugu-findplace.herokuapp.com (서브 도메인 배포)
 ### `2019-09-01 ~ 2019-12-04` GENIEPET(https://github.com/solone313/GeniePet_Server)
 <img src="https://i.postimg.cc/HLzjnTcf/Shared-Screenshot.jpg" width=200>
 
-딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스
-- 설명 - django rest framework로 견종별로 평가된 상품 리스트를 반환하는 추천시스템을 넣은 rest api서버 전체파트를 담당했습니다.  
+Django를 이용한 Bookmark, Shopping App등을 개발한 이후(REPO에 있습니다.)
+딥러닝 기반 강아지 상품추천 큐레이션 어플 서비스를 개발하였습니다.  
 
+- 설명 - Django rest framework로 견종별로 평가된 상품 리스트를 반환하는 추천시스템을 넣은 rest api서버 전체파트를 담당했습니다.  
+viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하였습니다. DB는 Sqlite를 이용하였습니다. 추천은 해당견종을 가진 사용자들이 산 리뷰 점수를 토대로 정렬해주었습니다.
 - 사용기술 - Django, DRF, Android studio, Ngrok  
 - 성과 - 창의설계경진대회 2등으로 우수상을 수상하였습니다.  
 
