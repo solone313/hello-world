@@ -66,7 +66,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 ### ` 2019-01-30 ~ 2020-03-29` https://github.com/solone313/nomadbook  
 <img src="./images/goreads.png" width=100>
 
-- 사이트 - http://ec2-15-165-203-193.ap-northeast-2.compute.amazonaws.com/book/5e620ae9e5d5360017bb831f
+- 사이트 - http://ec2-15-165-203-193.ap-northeast-2.compute.amazonaws.com
 - 설명 - 노마드 온라인 해커톤 개발중입니다. goodreads clone app 이며 사용된 기술과 기능들에 대한 자세한 설명은 repo를 참고해주시길 바랍니다.  
 
 - 사용기술 - MongoDB, NodeJS, ExpressJS, ReactJS, AWS S3, HEROKU, google analytics
