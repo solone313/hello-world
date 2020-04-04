@@ -74,8 +74,8 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 ## Awards
 - 세종코딩챌린지 4등
 - 창의경진설계대회 우수상
-- sejong AI Hackathon 장려상
-- nomad hackaton 3등
+- SEJONG AI Hackathon 장려상
+- NOMAD online Hackaton 3등
 
 ## Group experience
 - it 워치독 3기 ( 2018.06 ~ 2018.08 )
