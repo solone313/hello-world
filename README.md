@@ -68,7 +68,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 
 - 사이트 - http://ec2-15-165-203-193.ap-northeast-2.compute.amazonaws.com
 - 설명 - 노마드 온라인 해커톤 개발중입니다. goodreads clone app 이며 사용된 기술과 기능들에 대한 자세한 설명은 repo를 참고해주시길 바랍니다.  
-
+- 성과 - 노마드해커톤 최종 3등 수상하였습니다.
 - 사용기술 - MongoDB, NodeJS, ExpressJS, ReactJS, AWS S3, HEROKU, google analytics
 
 
@@ -76,6 +76,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 - 세종코딩챌린지 4등
 - 창의경진설계대회 우수상
 - sejong AI Hackathon 장려상
+- nomad hackaton 3등
 
 ## Group experience
 - it 워치독 3기 ( 2018.06 ~ 2018.08 )
