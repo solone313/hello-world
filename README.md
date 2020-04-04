@@ -63,7 +63,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 - 사용기술 - Django, DRF, Android studio, Ngrok  
 - 성과 - 창의설계경진대회 2등으로 우수상을 수상하였습니다.  
 
-### ` 2019-01-30 ~ ` https://github.com/solone313/nomadbook  
+### ` 2019-01-30 ~ 2020-03-29` https://github.com/solone313/nomadbook  
 <img src="./images/goreads.png" width=100>
 
 - 사이트 - http://goreads.coo.kr  
