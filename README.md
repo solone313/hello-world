@@ -21,7 +21,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - Naver Clova, Kakaopay, Seyfert 등 다양한 API를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다. PR을 올리고 코드리뷰 후 DEV Branch에 1차 Merge후 최종 점검 후 Master Branch에 Merge하는 방식으로 진행했습니다.
 
-- AWS - `Iam S3 Cognito Dynamodb Lambda Cloudformation Appsync`를 Nodejs를 기반으로 사용하여, Backend를 구축(serverless framework)하고 AWS console을 통해 관리하는 방법을 배웠습니다.
+- AWS - `Iam S3 Cognito Dynamodb Lambda Cloudformation Appsync`를 Nodejs를 기반으로 사용하여, Backend를 구축(serverless framework)하고 AWS console을 통해 관리하는 방법을 배웠습니다. 최근에는 EC2(를 사용하여 ssh를 통해 접근하고 filezila를 사용하여 file transfer를 한 후 nginx와 백그라운드 서버실행으로 풀스택 배포를 해봤습니다.
 
 - 외에 `Io`, `Kotlin`, `Swift`, `React-native` 에 관심이 있습니다.
 
