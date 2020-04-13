@@ -80,7 +80,6 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 ## Group experience
 - it 워치독 3기 ( 2018.06 ~ 2018.08 )
 - 멋쟁이사자처럼 세종대 7기 운영진( 2018.12 ~ 2019.08 )
-- 모같코 1기( 2020.02 ~ )
   
 ## Contacts
 - 이메일 : solone313@naver.com
