@@ -75,6 +75,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
   
 ## Contacts
 - 이메일 : solone313@naver.com
+- 블로그 : [solone313](https://velog.io/@solone313)
 - **Github** : [solone313](https://github.com/solone313)
 - 로켓펀치 : [solone313](https://www.rocketpunch.com/@wjstk1233)
 
