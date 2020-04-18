@@ -27,8 +27,6 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - 현재 `Flask`, `Amazon Web Service`, `Raect.js` 로 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
 
-## Career
-- [렌카] [(주)렌카](https://rencar.co.kr) (2020.04 ~ 현재)
 
 ## Career Projects
 
