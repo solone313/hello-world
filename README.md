@@ -28,7 +28,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 - 현재 `Nodejs`, `Expressjs`, `Raect.js` 로 풀스택에 대한 이해를 높이며 개발을 하고 있습니다.
 
 ## Career
-[렌카] (주)렌카(https://rencar.co.kr) (2020.04 ~ 현재)
+[렌카] [(주)렌카](https://rencar.co.kr) (2020.04 ~ 현재)
 
 ## Projects
 
@@ -65,7 +65,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 - 사용기술 - Django, DRF, Android studio, Ngrok  
 - 성과 - 창의설계경진대회 2등으로 우수상을 수상하였습니다.  
 
-### ` 2019-01-30 ~ 2020-03-29` https://github.com/solone313/nomadbook  
+### ` 2019-01-30 ~ 2020-03-29` GOREADS(https://github.com/solone313/nomadbook)  
 <img src="./images/goreads.png" width=100>
 
 - 사이트 - http://ec2-15-165-203-193.ap-northeast-2.compute.amazonaws.com
