@@ -17,7 +17,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `Python3`을 이용하여 웹서버(Django)를 구축하는 개발을 해봤으며, 현재 Python을 이용하여 자료구조와 알고리즘을 배우고 있습니다.
 
-- `Nodejs`의 'Express' 프레임워크를 이용하여 Socketio를 활용한 Backend proxy server를 만들어봤습니다. 또한 현재 MERN 스택을 사용하여 개발중입니다.
+- `Nodejs`의 'Express' 프레임워크를 이용하여 Socketio를 활용한 Backend proxy server를 만들어봤습니다. 
 
 - Naver Clova, Kakaopay, Seyfert 등 다양한 API를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다. PR을 올리고 코드리뷰 후 DEV Branch에 1차 Merge후 최종 점검 후 Master Branch에 Merge하는 방식으로 진행했습니다.
 
@@ -25,7 +25,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - 외에 `Io`, `Kotlin`, `Swift`, `React-native` 에 관심이 있습니다.
 
-- 현재 `Nodejs`, `Expressjs`, `Raect.js` 로 풀스택에 대한 이해를 높이며 개발을 하고 있습니다.
+- 현재 `Flask`, `Amazon Web Service`, `Raect.js` 로 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
 
 ## Career
 - [렌카] [(주)렌카](https://rencar.co.kr) (2020.04 ~ 현재)
