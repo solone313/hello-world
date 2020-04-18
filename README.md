@@ -30,7 +30,9 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 ## Career
 - [렌카] [(주)렌카](https://rencar.co.kr) (2020.04 ~ 현재)
 
-## Projects
+## Career Projects
+
+## Side Projects
 
 ### `2019-03-02 ~ 2019-06-10` VLOCK(https://github.com/solone313/vlock) 
 
