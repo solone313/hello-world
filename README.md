@@ -8,8 +8,6 @@
 
 prettier한 코드를 지향하고 다양한 개발자분들의 code review를 듣고 성장하고 싶은 주니어 개발자입니다!
 
-
-![깃허브로그](./images/git.png)
 ## Interested in
 ### Stack
 
@@ -60,7 +58,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 - 성과 - 창의설계경진대회 2등으로 우수상을 수상하였습니다.  
 
 ### ` 2019-01-30 ~ 2020-03-29` GOREADS(https://github.com/solone313/nomadbook)  
-<img src="./images/goreads.png" width=100>
+<img src="https://postimg.cc/JDVjjB8J" width=100>
 
 - 사이트 - http://ec2-15-165-203-193.ap-northeast-2.compute.amazonaws.com
 - 설명 - 노마드 온라인 해커톤 개발중입니다. goodreads clone app 이며 사용된 기술과 기능들에 대한 자세한 설명은 repo를 참고해주시길 바랍니다.  
