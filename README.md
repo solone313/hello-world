@@ -58,7 +58,7 @@ viewset을 이용한 기본적인 CRUD와 JWT를 이용한 AUTH 등을 구현하
 - 성과 - 창의설계경진대회 2등으로 우수상을 수상하였습니다.  
 
 ### ` 2019-01-30 ~ 2020-03-29` GOREADS(https://github.com/solone313/nomadbook)  
-<img src="https://postimg.cc/JDVjjB8J" width=100>
+<img src="https://i.postimg.cc/wv3F8hbW/goreads.png" width=100>
 
 - 사이트 - http://ec2-15-165-203-193.ap-northeast-2.compute.amazonaws.com
 - 설명 - 노마드 온라인 해커톤 개발중입니다. goodreads clone app 이며 사용된 기술과 기능들에 대한 자세한 설명은 repo를 참고해주시길 바랍니다.  
