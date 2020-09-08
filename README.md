@@ -13,19 +13,19 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `c`를 이용하여 프로그래밍 기본 문법, 자료구조를 배웠고 교내 코딩챌린지에 나가 4등에 입상하였습니다.
 
-- `Python3`을 이용하여 웹서버(Django)를 구축하는 개발을 해봤으며, 현재 Python을 이용하여 자료구조와 알고리즘을 배우고 있습니다.
+- `Python3`을 이용하여 웹서버(Django)를 구축하는 개발을 해봤으며, 현재 `Python`을 이용하여 자료구조와 알고리즘을 배우고 있습니다.
 
-- `Nodejs`의 'Express' 프레임워크를 이용하여 Socketio를 활용한 Backend proxy server를 만들어봤습니다. 
+- `Nodejs`의 'Express' 프레임워크를 이용하여 `Socketio`를 활용한 `Backend proxy server`를 만들어봤습니다. 
 
-- `git flow`, `paw`, `jira`, `slack`, `notion`등을 활용한 협업을 경험하였습니다.
+- `Git flow`, `Paw`, `Jira`, `Slack`, `Notion`등을 활용한 협업을 경험하였습니다.
 
-- cloud는 EC2를 이용한 기본 웹서버 배포부터 serverless framework, elastic beanstalk 등을 이용한 배포환경을 구축해본 경험이 있습니다.
+- `Cloud`는 `EC2`를 이용한 기본 웹서버 배포부터 `Serverless Framework`, `Elastic Beanstalk` 등을 이용한 배포환경을 구축해본 경험이 있습니다.
 
-- Mysql DB를 사용하며 실무에서 사용되는 데이터베이스의 설계와 쿼리튜닝등에 대한 경험이 있으며, innodb엔진 기반 mysql의 성능향상에 대해 꾸준히 공부하고 있습니다.
+- `Mysql` DB를 사용하며 실무에서 사용되는 데이터베이스의 설계와 쿼리튜닝등에 대한 경험이 있으며, `Innodb`엔진 기반 `Mysql`의 성능향상에 대해 꾸준히 공부하고 있습니다.
 
-- `SqlAlchemy`등의 ORM을 많이 사용했으며, sub query등을 활용한 쿼리도 지속적으로 작성하고 기능에 활용하고 있습니다.
+- `SqlAlchemy`등의 `ORM`을 많이 사용했으며, Sub query등을 활용한 쿼리도 지속적으로 작성하고 기능에 활용하고 있습니다.
 
-- Flask API에서 caching, redis, scheduler, thread등을 활용하여 기능을 개발한 경험이 있습니다.
+- Flask API에서 `caching`, `redis`, `scheduler`, `thread`등을 활용하여 기능을 개발한 경험이 있습니다.
 
 - 현재 `Flask`, `Amazon Web Service`, `Raect.js`, `Mysql` 을 공부하며 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
 
