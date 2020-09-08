@@ -17,13 +17,17 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - `Nodejs`의 'Express' 프레임워크를 이용하여 Socketio를 활용한 Backend proxy server를 만들어봤습니다. 
 
-- Naver Clova, Kakaopay, Seyfert 등 다양한 API를 웹페이지에 구현해봤습니다. GIT을 통한 버전관리를 경험해봤습니다. PR을 올리고 코드리뷰 후 DEV Branch에 1차 Merge후 최종 점검 후 Master Branch에 Merge하는 방식으로 진행했습니다.
+- `git flow`, `paw`, `jira`, `slack`, `notion`등을 활용한 협업을 경험하였습니다.
 
-- AWS - `Iam S3 Cognito Dynamodb Lambda Cloudformation Appsync`를 Nodejs를 기반으로 사용하여, Backend를 구축(serverless framework)하고 AWS console을 통해 관리하는 방법을 배웠습니다. 최근에는 EC2(를 사용하여 ssh를 통해 접근하고 filezila를 사용하여 file transfer를 한 후 nginx와 백그라운드 서버실행으로 풀스택 배포를 해봤습니다.
+- cloud는 EC2를 이용한 기본 웹서버 배포부터 serverless framework, elastic beanstalk 등을 이용한 배포환경을 구축해본 경험이 있습니다.
 
-- 외에 `Io`, `Kotlin`, `Swift`, `React-native` 에 관심이 있습니다.
+- Mysql DB를 사용하며 실무에서 사용되는 데이터베이스의 설계와 쿼리튜닝등에 대한 경험이 있으며, innodb엔진 기반 mysql의 성능향상에 대해 꾸준히 공부하고 있습니다.
 
-- 현재 `Flask`, `Amazon Web Service`, `Raect.js` 로 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
+- `SqlAlchemy`등의 ORM을 많이 사용했으며, sub query등을 활용한 쿼리도 지속적으로 작성하고 기능에 활용하고 있습니다.
+
+- Flask API에서 caching, redis, scheduler, thread등을 활용하여 기능을 개발한 경험이 있습니다.
+
+- 현재 `Flask`, `Amazon Web Service`, `Raect.js`, `Mysql` 을 공부하며 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
 
 ## Career
  - [렌카] [(주)렌카](http://www.saramin.co.kr/zf_user/company-info/view/csn/2808600274/company_nm/%EB%A0%8C%EC%B9%B4(%EC%A3%BC)) (2020.04 ~ 현재)
