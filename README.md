@@ -27,7 +27,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 - Flask API에서 `caching`, `redis`, `scheduler`, `thread`등을 활용하여 기능을 개발한 경험이 있습니다.
 
-- 현재 `Flask`, `Amazon Web Service`, `Raect.js`, `Mysql` 을 공부하며 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
+- 현재 `Flask`, `Amazon Web Service`, `k8s`, `Mysql` 을 공부하며 풀스택과 인프라에 대한 이해를 높이며 개발을 하고 있습니다.
 
 ## Career
  - [렌카] [(주)렌카](http://www.saramin.co.kr/zf_user/company-info/view/csn/2808600274/company_nm/%EB%A0%8C%EC%B9%B4(%EC%A3%BC)) (2020.04 ~ 2020.10)
