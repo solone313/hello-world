@@ -31,7 +31,7 @@ prettier한 코드를 지향하고 다양한 개발자분들의 code review를 �
 
 ## Career
  - [렌카] [(주)렌카](http://www.saramin.co.kr/zf_user/company-info/view/csn/2808600274/company_nm/%EB%A0%8C%EC%B9%B4(%EC%A3%BC)) (2020.04 ~ 2020.10)
- - [레이니스트] [뱅크샐러드](https://banksalad.com/) (2020.10 ~ 현재)
+ - [뱅크샐러드] [뱅크샐러드](https://banksalad.com/) (2020.10 ~ 현재)
 
 ## Career Projects
 - [렌카](https://rencar.co.kr/intro)
